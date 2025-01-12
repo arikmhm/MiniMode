@@ -1,0 +1,29 @@
+.navbar {
+  background: linear-gradient(135deg, #ff69b4 0%, #ffb6c1 100%);
+  margin-left: 250px;
+}
+
+.navbar h1 {
+  color: white;
+}
+
+.search-group {
+  position: relative;
+}
+
+.search-group input {
+  padding-right: 30px;
+  border-radius: 20px;
+}
+
+.search-icon {
+  position: absolute;
+  right: 10px;
+  top: 50%;
+  transform: translateY(-50%);
+  color: #718096;
+}
+
+.nav-link {
+  color: white !important;
+}
